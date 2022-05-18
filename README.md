@@ -1,8 +1,10 @@
 # Hardhat Template
 
+For start run ``` npm install ``` to install all dependencies.
+
 > Resume
 
-Template that you can use for every hardhat project
+Template that you can use for every solidity project
 
 > Deploy 
 
